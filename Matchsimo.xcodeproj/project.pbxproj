@@ -83,8 +83,6 @@
 		F43C1A9C17E22D01008622E9 /* Matchsimo */ = {
 			isa = PBXGroup;
 			children = (
-				F43C1AA517E22D01008622E9 /* CardGameAppDelegate.h */,
-				F43C1AA617E22D01008622E9 /* CardGameAppDelegate.m */,
 				F43C1AAE17E22D01008622E9 /* MainStoryboard.storyboard */,
 				F43C1AB117E22D01008622E9 /* CardGameViewController.h */,
 				F43C1AB217E22D01008622E9 /* CardGameViewController.m */,
@@ -96,6 +94,8 @@
 		F43C1A9D17E22D01008622E9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F43C1AA517E22D01008622E9 /* CardGameAppDelegate.h */,
+				F43C1AA617E22D01008622E9 /* CardGameAppDelegate.m */,
 				F43C1A9E17E22D01008622E9 /* Matchsimo-Info.plist */,
 				F43C1A9F17E22D01008622E9 /* InfoPlist.strings */,
 				F43C1AA217E22D01008622E9 /* main.m */,
